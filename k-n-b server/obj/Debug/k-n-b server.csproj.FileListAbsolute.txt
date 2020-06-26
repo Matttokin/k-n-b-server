@@ -1,0 +1,10 @@
+F:\Users\MrTokin\source\repos\k-n-b server\k-n-b server\obj\Debug\k-n-b server.csprojAssemblyReference.cache
+F:\Users\MrTokin\source\repos\k-n-b server\k-n-b server\obj\Debug\k_n_b_server.Form1.resources
+F:\Users\MrTokin\source\repos\k-n-b server\k-n-b server\obj\Debug\k_n_b_server.Properties.Resources.resources
+F:\Users\MrTokin\source\repos\k-n-b server\k-n-b server\obj\Debug\k-n-b server.csproj.GenerateResource.cache
+F:\Users\MrTokin\source\repos\k-n-b server\k-n-b server\obj\Debug\k-n-b server.csproj.CoreCompileInputs.cache
+F:\Users\MrTokin\source\repos\k-n-b server\k-n-b server\bin\Debug\k-n-b server.exe.config
+F:\Users\MrTokin\source\repos\k-n-b server\k-n-b server\bin\Debug\k-n-b server.exe
+F:\Users\MrTokin\source\repos\k-n-b server\k-n-b server\bin\Debug\k-n-b server.pdb
+F:\Users\MrTokin\source\repos\k-n-b server\k-n-b server\obj\Debug\k-n-b server.exe
+F:\Users\MrTokin\source\repos\k-n-b server\k-n-b server\obj\Debug\k-n-b server.pdb
